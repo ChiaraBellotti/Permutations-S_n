@@ -1,13 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 15 15:51:54 2026
-
-@author: chiarabellotti
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+#case 2 large n
 
 import math
 import sys
