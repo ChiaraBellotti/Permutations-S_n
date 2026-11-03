@@ -1,13 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 15 15:58:13 2026
-
-@author: chiarabellotti
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+#case 2 small n
 
 from fractions import Fraction
 from math import isqrt
