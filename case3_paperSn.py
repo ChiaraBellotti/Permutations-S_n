@@ -1,5 +1,4 @@
-"""Verify Case 3
-"""
+#case 3
 
 from array import array
 from fractions import Fraction
